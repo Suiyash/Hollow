@@ -1,3 +1,3 @@
-# hello-github
+# Hello Github!
 Great Day!
 Be yourself
